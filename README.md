@@ -39,9 +39,17 @@ You'll find the app [here](https://image-search-react.web.app/), use cmd/window 
 
 ### Description
 
+A simple season teller app made with React. It uses chromes geolocation API to determine the users latitude and deduces from that whether they're on the northern or southern hemisphere. 
+
+Based on the user's hemisphere and present calendar month, the app will display one of two possible pages, indicating their location's season is summer or winter.
+
+*Tech Stack: JavaScript, React, Node, CSS, HTML, Webpack, Babel, CircleCI, Firebase*
+
+You'll find the app [here](https://season-teller-react.web.app/), use cmd/window + click to open in a new tab.
+
 ### Application
 
-[]()
+[Application Screenrecording](https://github.com/BenSheridanEdwards/Season_Teller_React/blob/master/media/SeasonTeller-AppShowcase.gif)
 
 ## <a name="song-detailer">Song Detailer</a>
 
