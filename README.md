@@ -49,7 +49,7 @@ You'll find the app [here](https://season-teller-react.web.app/), use cmd/window
 
 ### Application
 
-[Application Screenrecording](https://github.com/BenSheridanEdwards/Season_Teller_React/blob/master/media/SeasonTeller-AppShowcase.gif)
+![Application Screenrecording](https://github.com/BenSheridanEdwards/Season_Teller_React/blob/master/media/SeasonTeller-AppShowcase.gif)
 
 ## <a name="song-detailer">Song Detailer</a>
 
