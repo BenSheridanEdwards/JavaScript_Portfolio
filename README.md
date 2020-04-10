@@ -19,7 +19,7 @@ You'll find the app here, use cmd/window + click to open in a new tab.
 
 ### Application
 
-[]()
+![Application Screenrecording](https://github.com/BenSheridanEdwards/Video_Player_React/blob/master/images/Application_Showcase/Gifs/VideoPlayer-React-Application-Large.gif)
 
 ## <a name="image-search">Image Search</a>
 
