@@ -13,9 +13,9 @@
 
 Create a video player app with React using YouTube's API. Complete with a search bar, selected video viewport with its name and description, and a list of related videos.
 
-Tech Stack: JavaScript, React, Node, CSS, HTML, Webpack, Babel, Axios, CircleCI, Firebase
+**Tech Stack:** *JavaScript, React, Node, CSS, HTML, Webpack, Babel, Axios, CircleCI, Firebase*
 
-You'll find the app here, use cmd/window + click to open in a new tab.
+You'll find the app [here](https://video-player-react-273018.web.app/), use cmd/window + click to open in a new tab.
 
 ### Application
 
@@ -24,6 +24,12 @@ You'll find the app here, use cmd/window + click to open in a new tab.
 ## <a name="image-search">Image Search</a>
 
 ### Description
+
+Search bar application that displays relevent images to searched keywords - displayed in a neat grid format.
+
+**Tech Stack:** *JavaScript, React, Node, CSS, HTML, Webpack, Babel, Axios, CircleCI, Firebase*
+
+You'll find the app [here](https://image-search-react.web.app/), use cmd/window + click to open in a new tab.
 
 ### Application
 
