@@ -5,6 +5,7 @@
 [Season Teller](#season-teller) - Show the season based on a user's location and the time of the year, using Chrome's Geolocation API <br>
 [Song Detailer](#song-detailer) - Showcases a list of Songs and song details when selected <br>
 [Social Media Comments](#social-media-comments) - Approval cards for social media comments <br>
+[Click Counter](#click-counter) - Basic click counter <br>
 
 
 ## <a name="video-player">Video Player</a>
@@ -57,7 +58,7 @@ You'll find the app [here](https://season-teller-react.web.app/), use cmd/window
 
 ### Application
 
-[]()
+![Application Screenrecording]()
 
 ## <a name="social-media-comments">Social Media Comments</a>
 
@@ -65,4 +66,17 @@ You'll find the app [here](https://season-teller-react.web.app/), use cmd/window
 
 ### Application
 
-[]()
+![Application Screenrecording]()
+
+## <a name="click-counter">Click Counter</a>
+
+### Description
+
+A simple counter app made with React. You can increment or decrement the counter. It throws an error if you try to decrement 0. 
+
+*Tech Stack: JavaScript, React, Node, CSS, HTML, Jest, Enzyme, Webpack, Babel*
+
+### Application
+
+![Application Screenrecording](https://github.com/BenSheridanEdwards/Click_Counter_React/blob/master/media/ClickCounter-AppShowcaseGif.gif)
+
