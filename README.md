@@ -79,12 +79,12 @@ You'll find the app [here](https://song-detailer-react.web.app/), use cmd/window
 
 ### Application
 
-[![CircleCI](https://circleci.com/gh/BenSheridanEdwards/Click_Counter_React.svg?style=svg)](https://circleci.com/gh/BenSheridanEdwards/Click_Counter_React)
-[![Maintainability](https://api.codeclimate.com/v1/badges/32d8f217be4f246461fa/maintainability)](https://codeclimate.com/github/BenSheridanEdwards/Click_Counter_React/maintainability)
 ![App Screenrecording](https://github.com/BenSheridanEdwards/Song_Detailer_React/blob/master/media/Showcase/SongDetailer-AppShowcase.gif)
 
 ## <a name="click-counter">Click Counter</a>
 
+[![CircleCI](https://circleci.com/gh/BenSheridanEdwards/Click_Counter_React.svg?style=svg)](https://circleci.com/gh/BenSheridanEdwards/Click_Counter_React)
+[![Maintainability](https://api.codeclimate.com/v1/badges/32d8f217be4f246461fa/maintainability)](https://codeclimate.com/github/BenSheridanEdwards/Click_Counter_React/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/32d8f217be4f246461fa/test_coverage)](https://codeclimate.com/github/BenSheridanEdwards/Click_Counter_React/test_coverage)
 
 ### Description
