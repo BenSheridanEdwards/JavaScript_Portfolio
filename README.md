@@ -11,7 +11,7 @@
 
 [![CircleCI](https://circleci.com/gh/BenSheridanEdwards/Video_Player_React.svg?style=svg)](https://circleci.com/gh/BenSheridanEdwards/Video_Player_React)
 [![Maintainability](https://api.codeclimate.com/v1/badges/4a8e0904f2d65896aa53/maintainability)](https://codeclimate.com/github/BenSheridanEdwards/Video_Player_React/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/4a8e0904f2d65896aa53/test_coverage)](https://codeclimate.com/github/BenSheridanEdwards/Video_Player_React/test_coverage)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/32d8f217be4f246461fa/test_coverage)](https://codeclimate.com/github/BenSheridanEdwards/Click_Counter_React/test_coverage)
 
 ### Description
 
@@ -29,7 +29,7 @@ You'll find the app [here](https://video-player-react-273018.web.app/), use cmd/
 
 [![CircleCI](https://circleci.com/gh/BenSheridanEdwards/Image_Search_React.svg?style=svg)](https://circleci.com/gh/BenSheridanEdwards/Image_Search_React)
 [![Maintainability](https://api.codeclimate.com/v1/badges/b9693bc778487be5ee6e/maintainability)](https://codeclimate.com/github/BenSheridanEdwards/Image_Search_React/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/b9693bc778487be5ee6e/test_coverage)](https://codeclimate.com/github/BenSheridanEdwards/Image_Search_React/test_coverage)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/32d8f217be4f246461fa/test_coverage)](https://codeclimate.com/github/BenSheridanEdwards/Click_Counter_React/test_coverage)
 
 ### Description
 
@@ -47,7 +47,7 @@ You'll find the app [here](https://image-search-react.web.app/), use cmd/window 
 
 [![CircleCI](https://circleci.com/gh/BenSheridanEdwards/Season_Teller_React.svg?style=svg)](https://circleci.com/gh/BenSheridanEdwards/Season_Teller_React) 
 [![Maintainability](https://api.codeclimate.com/v1/badges/ab6fc16585a960fdfadb/maintainability)](https://codeclimate.com/github/BenSheridanEdwards/Season_Teller_React/maintainability) 
-[![Test Coverage](https://api.codeclimate.com/v1/badges/ab6fc16585a960fdfadb/test_coverage)](https://codeclimate.com/github/BenSheridanEdwards/Season_Teller_React/test_coverage)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/32d8f217be4f246461fa/test_coverage)](https://codeclimate.com/github/BenSheridanEdwards/Click_Counter_React/test_coverage)
 
 ### Description
 
@@ -67,7 +67,7 @@ You'll find the app [here](https://season-teller-react.web.app/), use cmd/window
 
 [![CircleCI](https://circleci.com/gh/BenSheridanEdwards/Song_Detailer_React.svg?style=svg)](https://circleci.com/gh/BenSheridanEdwards/Song_Detailer_React)
 [![Maintainability](https://api.codeclimate.com/v1/badges/927be19b769a8cc8fa03/maintainability)](https://codeclimate.com/github/BenSheridanEdwards/Song_Detailer_React/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/927be19b769a8cc8fa03/test_coverage)](https://codeclimate.com/github/BenSheridanEdwards/Song_Detailer_React/test_coverage)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/32d8f217be4f246461fa/test_coverage)](https://codeclimate.com/github/BenSheridanEdwards/Click_Counter_React/test_coverage)
 
 ### Description
 
@@ -79,9 +79,13 @@ You'll find the app [here](https://song-detailer-react.web.app/), use cmd/window
 
 ### Application
 
+[![CircleCI](https://circleci.com/gh/BenSheridanEdwards/Click_Counter_React.svg?style=svg)](https://circleci.com/gh/BenSheridanEdwards/Click_Counter_React)
+[![Maintainability](https://api.codeclimate.com/v1/badges/32d8f217be4f246461fa/maintainability)](https://codeclimate.com/github/BenSheridanEdwards/Click_Counter_React/maintainability)
 ![App Screenrecording](https://github.com/BenSheridanEdwards/Song_Detailer_React/blob/master/media/Showcase/SongDetailer-AppShowcase.gif)
 
 ## <a name="click-counter">Click Counter</a>
+
+[![Test Coverage](https://api.codeclimate.com/v1/badges/32d8f217be4f246461fa/test_coverage)](https://codeclimate.com/github/BenSheridanEdwards/Click_Counter_React/test_coverage)
 
 ### Description
 
