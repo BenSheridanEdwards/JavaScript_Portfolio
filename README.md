@@ -29,7 +29,7 @@ You'll find the app [here](https://video-player-react-273018.web.app/), use cmd/
 
 [![CircleCI](https://circleci.com/gh/BenSheridanEdwards/Image_Search_React.svg?style=svg)](https://circleci.com/gh/BenSheridanEdwards/Image_Search_React)
 [![Maintainability](https://api.codeclimate.com/v1/badges/b9693bc778487be5ee6e/maintainability)](https://codeclimate.com/github/BenSheridanEdwards/Image_Search_React/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/32d8f217be4f246461fa/test_coverage)](https://codeclimate.com/github/BenSheridanEdwards/Click_Counter_React/test_coverage)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/b9693bc778487be5ee6e/test_coverage)](https://codeclimate.com/github/BenSheridanEdwards/Image_Search_React/test_coverage)
 
 ### Description
 
