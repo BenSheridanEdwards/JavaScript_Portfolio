@@ -11,7 +11,7 @@
 
 [![CircleCI](https://circleci.com/gh/BenSheridanEdwards/Video_Player_React.svg?style=svg)](https://circleci.com/gh/BenSheridanEdwards/Video_Player_React)
 [![Maintainability](https://api.codeclimate.com/v1/badges/4a8e0904f2d65896aa53/maintainability)](https://codeclimate.com/github/BenSheridanEdwards/Video_Player_React/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/32d8f217be4f246461fa/test_coverage)](https://codeclimate.com/github/BenSheridanEdwards/Click_Counter_React/test_coverage)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/4a8e0904f2d65896aa53/test_coverage)](https://codeclimate.com/github/BenSheridanEdwards/Video_Player_React/test_coverage)
 
 ### Description
 
