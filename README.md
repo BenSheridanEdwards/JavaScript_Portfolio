@@ -47,7 +47,7 @@ You'll find the app [here](https://image-search-react.web.app/), use cmd/window 
 
 [![CircleCI](https://circleci.com/gh/BenSheridanEdwards/Season_Teller_React.svg?style=svg)](https://circleci.com/gh/BenSheridanEdwards/Season_Teller_React) 
 [![Maintainability](https://api.codeclimate.com/v1/badges/ab6fc16585a960fdfadb/maintainability)](https://codeclimate.com/github/BenSheridanEdwards/Season_Teller_React/maintainability) 
-[![Test Coverage](https://api.codeclimate.com/v1/badges/32d8f217be4f246461fa/test_coverage)](https://codeclimate.com/github/BenSheridanEdwards/Click_Counter_React/test_coverage)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/ab6fc16585a960fdfadb/test_coverage)](https://codeclimate.com/github/BenSheridanEdwards/Season_Teller_React/test_coverage)
 
 ### Description
 
