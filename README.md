@@ -56,7 +56,7 @@ A simple season teller app made with React. It uses chromes geolocation API to d
 
 Based on the user's hemisphere and present calendar month, the app will display one of two possible pages, indicating their location's season is summer or winter.
 
-*Tech Stack: JavaScript, React, Node, CSS, HTML, Webpack, Babel, CircleCI, Firebase*
+**Tech Stack:** *JavaScript, React, Node, CSS, HTML, Jest, Enzyme, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
 You'll find the app [here](https://season-teller-react.web.app/), use cmd/window + click to open in a new tab.
 
@@ -92,7 +92,7 @@ You'll find the app [here](https://song-detailer-react.web.app/), use cmd/window
 
 A simple counter app made with React. You can increment or decrement the counter. It throws an error if you try to decrement 0.
 
-*Tech Stack: JavaScript, React, Node, CSS, HTML, Jest, Enzyme, Webpack, Babel*
+**Tech Stack:** *JavaScript, React, Node, CSS, HTML, Jest, Enzyme, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
 ### Application
 
