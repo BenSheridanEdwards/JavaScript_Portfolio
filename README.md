@@ -100,9 +100,11 @@ You'll find the app [here](https://click-counter-react.web.app/), use cmd/window
 
 ![Application Screenrecording](https://github.com/BenSheridanEdwards/Click_Counter_React/blob/master/media/ClickCounter-AppShowcaseGif.gif)
 
+
 ## <a name="covid-19-tracker">COVID-19 Tracker</a>
 
 [![CircleCI](https://circleci.com/gh/BenSheridanEdwards/COVID-19_Tracker_React.svg?style=svg)](https://circleci.com/gh/BenSheridanEdwards/COVID-19_Tracker_React)
+[![Maintainability](https://api.codeclimate.com/v1/badges/bbd52586d925b63f9ea2/maintainability)](https://codeclimate.com/github/BenSheridanEdwards/COVID-19_Tracker_React/maintainability)
 
 ### Description
 
