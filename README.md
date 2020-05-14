@@ -94,6 +94,8 @@ A simple counter app made with React. You can increment or decrement the counter
 
 **Tech Stack:** *JavaScript, React, Node, CSS, HTML, Jest, Enzyme, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
+You'll find the app [here](https://click-counter-react.web.app/), use cmd/window + click to open in a new tab.
+
 ### Application
 
 ![Application Screenrecording](https://github.com/BenSheridanEdwards/Click_Counter_React/blob/master/media/ClickCounter-AppShowcaseGif.gif)
@@ -107,6 +109,8 @@ A simple counter app made with React. You can increment or decrement the counter
 Uses the COVID-19 API to fetch daily data on the reported number of infected, recovered and deaths from the Coronavirus. 
 
 **Tech Stack:** *JavaScript, React, Node, CSS, Material-UI, HTML, Jest, Enzyme, Webpack, Babel, Charts.js, CircleCI, Firebase*
+
+You'll find the app [here](https://covid-19-tracker-react.web.app/), use cmd/window + click to open in a new tab.
 
 ### Application
 
