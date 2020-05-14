@@ -5,6 +5,7 @@
 [Season Teller](#season-teller) - Show the season based on a user's location and the time of the year, using Chrome's Geolocation API <br>
 [Song Detailer](#song-detailer) - Showcases a list of Songs and song details when selected <br>
 [Click Counter](#click-counter) - Basic click counter <br>
+[COVID-19 Tracker](#covid-19-tracker) - COVID-19 Tracker showing global and individual country figures using the offical COVID-19 API <br> 
 
 
 ## <a name="video-player">Video Player</a>
@@ -96,3 +97,17 @@ A simple counter app made with React. You can increment or decrement the counter
 ### Application
 
 ![Application Screenrecording](https://github.com/BenSheridanEdwards/Click_Counter_React/blob/master/media/ClickCounter-AppShowcaseGif.gif)
+
+## <a name="covid-19-tracker">COVID-19 Tracker</a>
+
+[![CircleCI](https://circleci.com/gh/BenSheridanEdwards/COVID-19_Tracker_React.svg?style=svg)](https://circleci.com/gh/BenSheridanEdwards/COVID-19_Tracker_React)
+
+### Description
+
+Uses the COVID-19 API to fetch daily data on the reported number of infected, recovered and deaths from the Coronavirus. 
+
+**Tech Stack:** *JavaScript, React, Node, CSS, Material-UI, HTML, Jest, Enzyme, Webpack, Babel, Charts.js, CircleCI, Firebase*
+
+### Application
+
+![Application Screenrecording](https://github.com/BenSheridanEdwards/COVID-19_Tracker_React/blob/master/src/images/AppShowcase-COVID-19-Tracker.gif)
