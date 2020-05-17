@@ -110,7 +110,7 @@ You'll find the app [here](https://click-counter-react.web.app/), use cmd/window
 
 Uses the COVID-19 API to fetch daily data on the reported number of infected, recovered and deaths from the Coronavirus. 
 
-**Tech Stack:** *JavaScript, React, Node, CSS, Material-UI, HTML, Jest, Enzyme, Webpack, Babel, Charts.js, CircleCI, Firebase*
+**Tech Stack:** *JavaScript, React, Node, CSS, Material-UI, HTML, Jest, Enzyme, Webpack, Babel, Charts.js, CircleCI, Code Climate, Firebase*
 
 You'll find the app [here](https://covid-19-tracker-react.web.app/), use cmd/window + click to open in a new tab.
 
