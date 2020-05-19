@@ -2,7 +2,7 @@
 
 [Video Player](#video-player) - Search application for videos using YouTube's Data API <br>
 [Image Search](#image-search) - Search application for images using UnSplash's Photo API <br>
-[Season Teller](#season-teller) - Show the season based on a user's location and the time of the year, using Chrome's Geolocation API - [GitHub Repository](https://github.com/BenSheridanEdwards/Season_Teller_React) <br>
+[Season Teller](#season-teller) - Show the season based on a user's location and the time of the year, using Chrome's Geolocation API <br>
 [Song Detailer](#song-detailer) - Showcases a list of Songs and song details when selected - [Project Repository](https://github.com/BenSheridanEdwards/Song_Detailer_React) <br>
 [Click Counter](#click-counter) - Basic click counter - [Project Repository](https://github.com/BenSheridanEdwards/Click_Counter_React) <br>
 [COVID-19 Tracker](#covid-19-tracker) - COVID-19 Tracker showing global and country figures COVID-19's API - [Project Repository](https://github.com/BenSheridanEdwards/COVID-19_Tracker_React) <br>
@@ -20,7 +20,7 @@ Create a video player app with React using YouTube's API. Complete with a search
 
 **Tech Stack:** *JavaScript, React, Node, CSS, HTML, Jest, Enzyme, Axios, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
-**Links:** [Deployed Application](https://video-player-react-273018.web.app/) & [Project Respository](https://github.com/BenSheridanEdwards/Video_Player_React),
+**Links:** [Deployed Application](https://video-player-react-273018.web.app/) & [Code Respository](https://github.com/BenSheridanEdwards/Video_Player_React),
 *use cmd/window + click to open in a new tab*
 
 ### Application
@@ -39,7 +39,7 @@ Search bar application that displays relevent images to searched keywords - disp
 
 **Tech Stack:** *JavaScript, React, Node, CSS, HTML, Jest, Enzyme, Axios, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
-**Links:** [Deployed Application](https://image-search-react.web.app/) & [Project Respository](https://github.com/BenSheridanEdwards/Image_Search_React),
+**Links:** [Deployed Application](https://image-search-react.web.app/) & [Code Respository](https://github.com/BenSheridanEdwards/Image_Search_React),
 *use cmd/window + click to open in a new tab*
 
 ### Application
@@ -52,8 +52,6 @@ Search bar application that displays relevent images to searched keywords - disp
 [![Maintainability](https://api.codeclimate.com/v1/badges/ab6fc16585a960fdfadb/maintainability)](https://codeclimate.com/github/BenSheridanEdwards/Season_Teller_React/maintainability) 
 [![Test Coverage](https://api.codeclimate.com/v1/badges/ab6fc16585a960fdfadb/test_coverage)](https://codeclimate.com/github/BenSheridanEdwards/Season_Teller_React/test_coverage)
 
-[GitHub Respository](https://github.com/BenSheridanEdwards/Season_Teller_React)
-
 ### Description
 
 A simple season teller app made with React. It uses chromes geolocation API to determine the users latitude and deduces from that whether they're on the northern or southern hemisphere. 
@@ -62,7 +60,8 @@ Based on the user's hemisphere and present calendar month, the app will display 
 
 **Tech Stack:** *JavaScript, React, Node, CSS, HTML, Jest, Enzyme, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
-You'll find the app [here](https://season-teller-react.web.app/), use cmd/window + click to open in a new tab.
+**Links:** [Deployed Application](https://season-teller-react.web.app/) & [Code Respository](https://github.com/BenSheridanEdwards/Season_Teller_React),
+*use cmd/window + click to open in a new tab*
 
 ### Application
 
