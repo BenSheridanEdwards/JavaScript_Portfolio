@@ -6,6 +6,7 @@
 [Song Detailer](#song-detailer) - Showcases a list of Songs and song details when selected <br>
 [Click Counter](#click-counter) - Basic click counter <br>
 [COVID-19 Tracker](#covid-19-tracker) - COVID-19 Tracker showing global and country figures COVID-19's API <br>
+[Blog](#) - Simple Blog App <br>
 
 
 ## <a name="video-player">Video Player</a>
