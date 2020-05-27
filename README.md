@@ -6,7 +6,7 @@
 [Song Detailer](#song-detailer) - Showcases a list of Songs and song details when selected <br>
 [Click Counter](#click-counter) - Basic click counter <br>
 [COVID-19 Tracker](#covid-19-tracker) - COVID-19 Tracker showing global and country figures COVID-19's API <br>
-[Blog](#) - Simple Blog App <br>
+[Simple Blog](#blog) - Simple Blog App <br>
 
 
 ## <a name="video-player">Video Player</a>
@@ -123,3 +123,17 @@ Uses the COVID-19 API to fetch daily data on the reported number of infected, re
 ### Application
 
 ![Application Screenrecording](https://github.com/BenSheridanEdwards/COVID-19_Tracker_React/blob/master/src/images/AppShowcase-COVID-19-Tracker.gif)
+
+## <a name="blog">Simple Blog</a>
+
+### Description
+
+A simple blog app built using React, Redux, Jest and Enzyme.
+
+**Tech Stack:** *JavaScript, React, Redux, Node, CSS, Semantic UI, HTML, Jest, Enzyme, Webpack, Babel, CircleCI, Code Climate, Firebase*
+
+You'll find the app deployed [here](https://simple-blog-react-fb7e3.web.app/). Open in a new tab by clicking whilst holding cmd/window.
+
+### Application
+
+![Application Screenrecording](https://github.com/BenSheridanEdwards/Simple_Blog_React/blob/master/images/Showcase/SimpleBlog-AppShowcase.gif)
