@@ -1,4 +1,4 @@
-# React Portfolio
+v# React Portfolio
 
 [Video Player](#video-player) - Search application for videos using YouTube's Data API <br>
 [Image Search](#image-search) - Search application for images using UnSplash's Photo API <br>
@@ -132,7 +132,8 @@ A simple blog app built using React, Redux, Jest and Enzyme.
 
 **Tech Stack:** *JavaScript, React, Redux, Node, CSS, Semantic UI, HTML, Jest, Enzyme, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
-You'll find the app deployed [here](https://simple-blog-react-fb7e3.web.app/). Open in a new tab by clicking whilst holding cmd/window.
+**Links:** [Deployed Application](https://simple-blog-react-fb7e3.web.app/) & [Code Respository](https://github.com/BenSheridanEdwards/Simple_Blog_React),
+*use cmd/window + click to open in a new tab*
 
 ### Application
 
