@@ -1,4 +1,4 @@
-v# React Portfolio
+# React Portfolio
 
 [Video Player](#video-player) - Search application for videos using YouTube's Data API <br>
 [Image Search](#image-search) - Search application for images using UnSplash's Photo API <br>
