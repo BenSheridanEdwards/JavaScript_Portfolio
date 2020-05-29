@@ -126,6 +126,8 @@ Uses the COVID-19 API to fetch daily data on the reported number of infected, re
 
 ## <a name="blog">Simple Blog</a>
 
+[![CircleCI](https://circleci.com/gh/BenSheridanEdwards/Simple_Blog_React.svg?style=svg)](https://circleci.com/gh/BenSheridanEdwards/Simple_Blog_React)
+
 ### Description
 
 A simple blog app built using React, Redux, Jest and Enzyme.
