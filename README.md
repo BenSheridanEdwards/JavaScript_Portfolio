@@ -17,7 +17,7 @@
 
 ### Description
 
-Video player application with React using YouTube's API. Complete with a search bar, selected video viewport with its name and description, and a list of related videos.
+Single-page video player application with React using YouTube's API. Complete with a search bar, selected video viewport with its name and description, and a list of related videos.
 
 **Tech Stack:** *JavaScript, React, Node, CSS, HTML, Jest, Enzyme, Axios, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
@@ -36,7 +36,7 @@ Video player application with React using YouTube's API. Complete with a search 
 
 ### Description
 
-Search bar application that displays relevent images to searched keywords - displayed in a neat grid format.
+Single-page search bar application that displays relevent images to searched keywords - displayed in a neat grid format.
 
 **Tech Stack:** *JavaScript, React, Node, CSS, HTML, Jest, Enzyme, Axios, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
