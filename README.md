@@ -17,7 +17,7 @@
 
 ### Description
 
-Create a video player app with React using YouTube's API. Complete with a search bar, selected video viewport with its name and description, and a list of related videos.
+Video player application with React using YouTube's API. Complete with a search bar, selected video viewport with its name and description, and a list of related videos.
 
 **Tech Stack:** *JavaScript, React, Node, CSS, HTML, Jest, Enzyme, Axios, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
@@ -55,7 +55,7 @@ Search bar application that displays relevent images to searched keywords - disp
 
 ### Description
 
-A simple season teller app made with React. It uses chromes geolocation API to determine the users latitude and deduces from that whether they're on the northern or southern hemisphere. 
+Season teller application made with React. It uses chromes geolocation API to determine the users latitude and deduces from that whether they're on the northern or southern hemisphere. 
 
 Based on the user's hemisphere and present calendar month, the app will display one of two possible pages, indicating their location's season is summer or winter.
 
@@ -76,7 +76,7 @@ Based on the user's hemisphere and present calendar month, the app will display 
 
 ### Description
 
-A simple app that displays a list of hard coded songs a user can choose from. Selecting a song reveals details like the song's title, artist, and duration. 
+Song detailer application that displays a list of hard coded songs a user can choose from. Selecting a song reveals details like the song's title, artist, and duration.
 
 **Tech Stack:** *JavaScript, React, Redux, Node, CSS, HTML, Jest, Enzyme, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
@@ -95,7 +95,7 @@ A simple app that displays a list of hard coded songs a user can choose from. Se
 
 ### Description
 
-A simple counter app made with React. You can increment or decrement the counter. It throws an error if you try to decrement 0.
+Counter application made with React using TDD. You can increment or decrement the counter. It throws an error if you try to decrement 0.
 
 **Tech Stack:** *JavaScript, React, Node, CSS, HTML, Jest, Enzyme, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
@@ -113,7 +113,7 @@ A simple counter app made with React. You can increment or decrement the counter
 
 ### Description
 
-Uses the COVID-19 API to fetch daily data on the reported number of infected, recovered and deaths from the Coronavirus. 
+COVID-19 Tracker application that uses the COVID-19 API to fetch daily data on the reported number of infected, recovered and deaths from the Coronavirus. 
 
 **Tech Stack:** *JavaScript, React, Node, CSS, Material-UI, HTML, Jest, Enzyme, Webpack, Babel, Charts.js, CircleCI, Code Climate, Firebase*
 
@@ -130,7 +130,7 @@ Uses the COVID-19 API to fetch daily data on the reported number of infected, re
 
 ### Description
 
-A simple blog app built using React, Redux, Jest and Enzyme.
+Blog application that renders a list of random blog posts from an API. Built using React, Redux, Jest and Enzyme.
 
 **Tech Stack:** *JavaScript, React, Redux, Node, CSS, Semantic UI, HTML, Jest, Enzyme, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
