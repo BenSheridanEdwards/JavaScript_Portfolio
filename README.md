@@ -1,4 +1,4 @@
-# React Portfolio
+# JavaScript Portfolio
 
 [Video Player](#video-player) - Search application for videos using YouTube's Data API <br>
 [Image Search](#image-search) - Search application for images using UnSplash's Photo API <br>
@@ -6,8 +6,7 @@
 [Song Detailer](#song-detailer) - Showcases a list of Songs and song details when selected <br>
 [Click Counter](#click-counter) - Basic click counter <br>
 [COVID-19 Tracker](#covid-19-tracker) - COVID-19 Tracker showing global and country figures COVID-19's API <br>
-[Simple Blog](#blog) - Simple Blog App <br>
-
+[Simple Blog](#blog) - Simple Blog App that displays a list of blog posts <br>
 
 ## <a name="video-player">Video Player</a>
 
