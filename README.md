@@ -45,7 +45,9 @@ Single-page search bar application that displays relevent images to searched key
 
 ### Application
 
-![App Screenrecording](https://github.com/BenSheridanEdwards/Image_Search_React/blob/master/media/ImageSearch-AppShowcase.gif)
+<a href="https://image-search-react.web.app/">
+<img src="https://github.com/BenSheridanEdwards/Image_Search_React/blob/master/media/ImageSearch-AppShowcase.gif"></img>
+</a>
 
 ## <a name="season-teller">Season Teller</a>
 
