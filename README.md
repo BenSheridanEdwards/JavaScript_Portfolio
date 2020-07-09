@@ -7,7 +7,7 @@
 [Click Counter](#click-counter) - Basic click counter <br>
 [COVID-19 Tracker](#covid-19-tracker) - COVID-19 Tracker showing global and country figures COVID-19's API <br>
 [Simple Blog](#blog) - Simple Blog App that displays a list of blog posts <br>
-[Book Store API](#bookstore-api) - RESTful API for managing users, products, and orders for an online bookstore
+[Bookstore API](#bookstore-api) - RESTful API for managing users, products, and orders for an online bookstore
 
 ## <a name="video-player">Video Player</a>
 
@@ -142,7 +142,7 @@ Blog application that renders a list of random blog posts from an API. Built usi
 
 ## <a name="bookstore-api">Bookstore API</a>
 
-[![CircleCI](https://circleci.com/gh/BenSheridanEdwards/Book_Store_API.svg?style=svg)](https://circleci.com/gh/BenSheridanEdwards/Book_Store_API)
+[![CircleCI](https://circleci.com/gh/BenSheridanEdwards/Bookstore_API_Node.svg?style=svg)](https://circleci.com/gh/BenSheridanEdwards/Bookstore_API_Node)
 
 ### Description
 
