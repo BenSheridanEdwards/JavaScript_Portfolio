@@ -7,6 +7,7 @@
 [Click Counter](#click-counter) - Basic click counter <br>
 [COVID-19 Tracker](#covid-19-tracker) - COVID-19 Tracker showing global and country figures COVID-19's API <br>
 [Simple Blog](#blog) - Simple Blog App that displays a list of blog posts <br>
+[Book Store API](#bookstore-api) - RESTful API for managing users, products, and orders for an online bookstore
 
 ## <a name="video-player">Video Player</a>
 
