@@ -121,7 +121,9 @@ COVID-19 Tracker application that uses the COVID-19 API to fetch daily data on t
 
 ### Application
 
-![Application Screenrecording](https://github.com/BenSheridanEdwards/COVID-19_Tracker_React/blob/master/src/images/AppShowcase-COVID-19-Tracker.gif)
+<a href="https://covid-19-tracker-react.web.app/">
+<img src="https://github.com/BenSheridanEdwards/COVID-19_Tracker_React/blob/master/src/images/AppShowcase-COVID-19-Tracker.gif"></img>
+</a>
 
 ## <a name="blog">Simple Blog</a>
 
