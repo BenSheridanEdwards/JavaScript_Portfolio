@@ -139,3 +139,21 @@ Blog application that renders a list of random blog posts from an API. Built usi
 ### Application
 
 ![Application Screenrecording](https://github.com/BenSheridanEdwards/Simple_Blog_React/blob/master/images/Showcase/SimpleBlog-AppShowcase.gif)
+
+## <a name="bookstore-api">Bookstore API</a>
+
+[![CircleCI](https://circleci.com/gh/BenSheridanEdwards/Book_Store_API.svg?style=svg)](https://circleci.com/gh/BenSheridanEdwards/Book_Store_API)
+
+### Description
+
+A RESTful API for an online book store.
+
+**Tech Stack:** *JavaScript, Node, Express, MongoDB, Mongoose, Swagger, CircleCI, Heroku*
+
+**Links:** [Interact with this API with Swagger UI](https://bse-book-store-api.herokuapp.com/api-docs/) & [Code Respository](https://github.com/BenSheridanEdwards/Book_Store_API),
+*use cmd/window + click to open in a new tab.*
+
+### Application
+
+<img src="https://github.com/BenSheridanEdwards/Book_Store_API/blob/master/images/Showcase/BookStoreAPI-AllRoutes.png" href="https://bse-book-store-api.herokuapp.com/api-docs/"></img>
+
