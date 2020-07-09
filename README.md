@@ -66,6 +66,10 @@ Based on the user's hemisphere and present calendar month, the app will display 
 
 ### Application
 
+<a href="https://season-teller-react.web.app/">
+<img src="https://github.com/BenSheridanEdwards/Season_Teller_React/blob/master/media/SeasonTeller-AppShowcase.gif"></img>
+</a>
+
 ![Application Screenrecording](https://github.com/BenSheridanEdwards/Season_Teller_React/blob/master/media/SeasonTeller-AppShowcase.gif)
 
 ## <a name="song-detailer">Song Detailer</a>
