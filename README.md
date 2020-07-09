@@ -154,6 +154,7 @@ A RESTful API for an online bookstore.
 *use cmd/window + click to open in a new tab.*
 
 ### Application
-
-<img src="https://github.com/BenSheridanEdwards/Book_Store_API/blob/master/images/Showcase/BookStoreAPI-AllRoutes.png" href="https://bse-book-store-api.herokuapp.com/api-docs/"></img>
+<a href="https://bse-book-store-api.herokuapp.com/api-docs/">
+<img src="https://github.com/BenSheridanEdwards/Book_Store_API/blob/master/images/Showcase/BookStoreAPI-AllRoutes.png"></img>
+</a>
 
