@@ -146,11 +146,11 @@ Blog application that renders a list of random blog posts from an API. Built usi
 
 ### Description
 
-A RESTful API for an online book store.
+A RESTful API for an online bookstore.
 
 **Tech Stack:** *JavaScript, Node, Express, MongoDB, Mongoose, Swagger, CircleCI, Heroku*
 
-**Links:** [Interact with this API with Swagger UI](https://bse-book-store-api.herokuapp.com/api-docs/) & [Code Respository](https://github.com/BenSheridanEdwards/Book_Store_API),
+**Links:** [Swagger UI Docs (Interact with this API)](https://bse-book-store-api.herokuapp.com/api-docs/) & [Code Respository](https://github.com/BenSheridanEdwards/Bookstore_API_Node),
 *use cmd/window + click to open in a new tab.*
 
 ### Application
