@@ -26,7 +26,9 @@ Single-page video player application with React using YouTube's API. Complete wi
 
 ### Application
 
-![App Screenrecording](https://github.com/BenSheridanEdwards/Video_Player_React/blob/master/images/Application_Showcase/Gifs/VideoPlayer-React-Application-Large.gif)
+<a href="https://video-player-react-273018.web.app/">
+<img src="https://github.com/BenSheridanEdwards/Video_Player_React/blob/master/images/Application_Showcase/Gifs/VideoPlayer-React-Application-Large.gif"></img>
+</a>
 
 ## <a name="image-search">Image Search</a>
 
