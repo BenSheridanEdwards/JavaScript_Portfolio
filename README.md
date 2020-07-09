@@ -138,7 +138,9 @@ Blog application that renders a list of random blog posts from an API. Built usi
 
 ### Application
 
-![Application Screenrecording](https://github.com/BenSheridanEdwards/Simple_Blog_React/blob/master/images/Showcase/SimpleBlog-AppShowcase.gif)
+<a href="https://simple-blog-react-fb7e3.web.app/">
+<img src="https://github.com/BenSheridanEdwards/Simple_Blog_React/blob/master/images/Showcase/SimpleBlog-AppShowcase.gif"></img>
+</a>
 
 ## <a name="bookstore-api">Bookstore API</a>
 
@@ -154,6 +156,7 @@ A RESTful API for an online bookstore.
 *use cmd/window + click to open in a new tab.*
 
 ### Application
+
 <a href="https://bse-book-store-api.herokuapp.com/api-docs/">
 <img src="https://github.com/BenSheridanEdwards/Book_Store_API/blob/master/images/Showcase/BookStoreAPI-AllRoutes.png"></img>
 </a>
