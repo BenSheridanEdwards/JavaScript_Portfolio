@@ -104,7 +104,9 @@ Counter application made with React using TDD. You can increment or decrement th
 
 ### Application
 
-![Application Screenrecording](https://github.com/BenSheridanEdwards/Click_Counter_React/blob/master/media/ClickCounter-AppShowcaseGif.gif)
+<a href="https://click-counter-react.web.app/">
+<img src="https://github.com/BenSheridanEdwards/Click_Counter_React/blob/master/media/ClickCounter-AppShowcaseGif.gif"></img>
+</a>
 
 ## <a name="covid-19-tracker">COVID-19 Tracker</a>
 
