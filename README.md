@@ -18,7 +18,7 @@
 
 Single-page video player application with React using YouTube's API. Complete with a search bar, selected video viewport with its name and description, and a list of related videos.
 
-**Tech Stack:** *JavaScript, React, Node, CSS, HTML, Jest, Enzyme, Axios, Webpack, Babel, CircleCI, Code Climate, Firebase*
+**Tech Stack:** *JavaScript, React, CSS, HTML, Jest, Enzyme, Axios, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
 **Links:** [Deployed Application](https://video-player-react-273018.web.app/) & [Code Respository](https://github.com/BenSheridanEdwards/Video_Player_React),
 *use cmd/window + click to open in a new tab*
@@ -37,7 +37,7 @@ Single-page video player application with React using YouTube's API. Complete wi
 
 Single-page search bar application that displays relevent images to searched keywords - displayed in a neat grid format.
 
-**Tech Stack:** *JavaScript, React, Node, CSS, HTML, Jest, Enzyme, Axios, Webpack, Babel, CircleCI, Code Climate, Firebase*
+**Tech Stack:** *JavaScript, React, CSS, HTML, Jest, Enzyme, Axios, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
 **Links:** [Deployed Application](https://image-search-react.web.app/) & [Code Respository](https://github.com/BenSheridanEdwards/Image_Search_React),
 *use cmd/window + click to open in a new tab*
@@ -58,7 +58,7 @@ Season teller application made with React. It uses chromes geolocation API to de
 
 Based on the user's hemisphere and present calendar month, the app will display one of two possible pages, indicating their location's season is summer or winter.
 
-**Tech Stack:** *JavaScript, React, Node, CSS, HTML, Jest, Enzyme, Webpack, Babel, CircleCI, Code Climate, Firebase*
+**Tech Stack:** *JavaScript, React, CSS, HTML, Jest, Enzyme, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
 **Links:** [Deployed Application](https://season-teller-react.web.app/) & [Code Respository](https://github.com/BenSheridanEdwards/Season_Teller_React),
 *use cmd/window + click to open in a new tab*
@@ -77,7 +77,7 @@ Based on the user's hemisphere and present calendar month, the app will display 
 
 Song detailer application that displays a list of hard coded songs a user can choose from. Selecting a song reveals details like the song's title, artist, and duration.
 
-**Tech Stack:** *JavaScript, React, Redux, Node, CSS, HTML, Jest, Enzyme, Webpack, Babel, CircleCI, Code Climate, Firebase*
+**Tech Stack:** *JavaScript, React, Redux, CSS, HTML, Jest, Enzyme, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
 **Links:** [Deployed Application](https://song-detailer-react.web.app/) & [Code Respository](https://github.com/BenSheridanEdwards/Song_Detailer_React),
 *use cmd/window + click to open in a new tab*
@@ -96,7 +96,7 @@ Song detailer application that displays a list of hard coded songs a user can ch
 
 Counter application made with React using TDD. You can increment or decrement the counter. It throws an error if you try to decrement 0.
 
-**Tech Stack:** *JavaScript, React, Node, CSS, HTML, Jest, Enzyme, Webpack, Babel, CircleCI, Code Climate, Firebase*
+**Tech Stack:** *JavaScript, React, CSS, HTML, Jest, Enzyme, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
 **Links:** [Deployed Application](https://click-counter-react.web.app/) & [Code Respository](https://github.com/BenSheridanEdwards/Click_Counter_React),
 *use cmd/window + click to open in a new tab*
@@ -113,7 +113,7 @@ Counter application made with React using TDD. You can increment or decrement th
 
 COVID-19 Tracker application that uses the COVID-19 API to fetch daily data on the reported number of infected, recovered and deaths from the Coronavirus. 
 
-**Tech Stack:** *JavaScript, React, Node, CSS, Material-UI, HTML, Jest, Enzyme, Webpack, Babel, Charts.js, CircleCI, Code Climate, Firebase*
+**Tech Stack:** *JavaScript, React, CSS, Material-UI, HTML, Jest, Enzyme, Webpack, Babel, Charts.js, CircleCI, Code Climate, Firebase*
 
 **Links:** [Deployed Application](https://covid-19-tracker-react.web.app/) & [Code Respository](https://github.com/BenSheridanEdwards/COVID-19_Tracker_React),
 *use cmd/window + click to open in a new tab*
@@ -130,7 +130,7 @@ COVID-19 Tracker application that uses the COVID-19 API to fetch daily data on t
 
 Blog application that renders a list of random blog posts from an API. Built using React, Redux, Jest and Enzyme.
 
-**Tech Stack:** *JavaScript, React, Redux, Node, CSS, Semantic UI, HTML, Jest, Enzyme, Webpack, Babel, CircleCI, Code Climate, Firebase*
+**Tech Stack:** *JavaScript, React, Redux, CSS, Semantic UI, HTML, Jest, Enzyme, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
 **Links:** [Deployed Application](https://simple-blog-react-fb7e3.web.app/) & [Code Respository](https://github.com/BenSheridanEdwards/Simple_Blog_React),
 *use cmd/window + click to open in a new tab*
