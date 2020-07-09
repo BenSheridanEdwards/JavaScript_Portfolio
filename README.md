@@ -85,7 +85,9 @@ Song detailer application that displays a list of hard coded songs a user can ch
 
 ### Application
 
-![App Screenrecording](https://github.com/BenSheridanEdwards/Song_Detailer_React/blob/master/media/Showcase/SongDetailer-AppShowcase.gif)
+<a href="https://song-detailer-react.web.app/">
+<img src="https://github.com/BenSheridanEdwards/Song_Detailer_React/blob/master/media/Showcase/SongDetailer-AppShowcase.gif"></img>
+</a>
 
 ## <a name="click-counter">Click Counter</a>
 
