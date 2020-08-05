@@ -59,7 +59,7 @@ Single-page video player application with React using YouTube's API. Complete wi
 
 **Tech Stack:** *JavaScript, React, CSS, HTML, Jest, Enzyme, Axios, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
-**Links:** [Deployed Application](https://video-player-react-273018.web.app/) & [Code Respository](https://github.com/BenSheridanEdwards/Video_Player_React),
+**Links:** [Code Respository](https://github.com/BenSheridanEdwards/Video_Player_React),
 *use cmd/window + click to open in a new tab*
 
 ### Application
