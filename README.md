@@ -99,7 +99,7 @@ Single-page search bar application that displays relevent images to searched key
 
 **Tech Stack:** *JavaScript, React, CSS, HTML, Jest, Enzyme, Axios, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
-**Links:** [Deployed Application](https://image-search-react.web.app/) & [Code Respository](https://github.com/BenSheridanEdwards/Image_Search_React),
+**Links:** [Code Respository](https://github.com/BenSheridanEdwards/Image_Search_React),
 *use cmd/window + click to open in a new tab*
 
 ### Application
